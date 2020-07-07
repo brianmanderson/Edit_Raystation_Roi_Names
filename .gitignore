@@ -1,6 +1,7 @@
 *.csv
 *.txt
 *.xlsx
+**.txt
 .idea
 __pycache__
 **$**
